@@ -1,13 +1,11 @@
-// styles.scss
+/* ==========================================================================
+   Styles 
+   ========================================================================== */
 
 html {
 	height: 100%;
-}
-
-
-body {
-	width:auto;
 	background-image: linear-gradient(to right top, #8935e2, #8748e7, #8658eb, #8666ef, #8773f1, #8280f5, #7e8bf8, #7d96f9, #77a2fb, #77aefb, #7cb8f9, #86c2f6);
+
 }
 
 *{
@@ -18,89 +16,107 @@ body {
 	text-decoration: none;
 }
 
+/* content
+   ========================================================================== */
+
 .middle {
 	position: absolute;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
+
+
+	/* Menu
+	   ========================================================================== */
+
+	.menu {
+		width:300px;
+		border-radius: 8px;
+		overflow: hidden;
+		box-shadow: 2px 14px 38px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	
+
+		/* Item
+		   ========================================================================== */
+
+		.item {
+			border-top:1px solid black;
+			overflow: hidden;
+		}
+
+		.item:nth-child(1){
+			border-top:0px;
+		}
+
+		.item:target .smenu {
+			max-height: 10em;
+		}
+
+
+		/* Sub menu
+		   ========================================================================== */
+
+		.smenu {
+			background: #333;
+			overflow:hidden;
+			transition: max-height 0.3s;
+			max-height: 0;
+		}
+
+		.smenu a {
+			display:block;
+			padding: 16px 26px;
+			color:white;
+			font-size:14px;
+			margin:4px 0;
+			position: relative;;
+		}
+
+		.smenu a:before {
+			content: "";
+			position: absolute;
+			width: 6px;
+			height: 100%;
+			background: #8935e2;
+			left:0;
+			top: 0;
+			transition: 0.3s;
+			opacity: 0;
+		}
+
+		.smenu a:hover:before{
+			opacity: 1;
+		}
+
+
+		/* Button 
+		   ========================================================================== */
+
+		.btn {
+			display: block;
+			padding:16px 20px;
+			background: #8935e2;
+			color:white;
+			position: relative;
+		}
+
+		.btn:before {
+			content: "";
+			position: absolute;
+			width:14px;
+			height: 14px;
+			left:20px;
+			bottom:-7px;
+			transform: rotate(45deg);
+
+		}
+
+		.btn i {
+			margin-right:10px;
+		}
+	}
 }
 
 
-.menu {
-	width:300px;
-	border-radius: 8px;
-	overflow: hidden;
-	box-shadow: 2px 14px 38px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
-}
 
 
-.item {
-	border-top:1px solid black;
-	overflow: hidden;
-}
-
-.item:nth-child(1){
-	border-top:0px;
-}
-
-
-.btn {
-	display: block;
-	padding:16px 20px;
-	background: #8935e2;
-	color:white;
-	position: relative;
-}
-
-.btn:before {
-	content: "";
-	position: absolute;
-	width:14px;
-	height: 14px;
-	background: #8935e2;
-	left:20px;
-	bottom:-7px;
-	transform: rotate(45deg);
-
-
-}
-
-.btn i {
-	margin-right:10px;
-}
-
-.smenu {
-	background: #333;
-	overflow:hidden;
-	transition: max-height 0.3s;
-	max-height: 0;
-}
-
-.smenu a {
-	display:block;
-	padding: 16px 26px;
-	color:white;
-	font-size:14px;
-	margin:4px 0;
-	position: relative;;
-}
-
-.smenu a:before {
-	content: "";
-	position: absolute;
-	width: 6px;
-	height: 100%;
-	background: #8935e2;
-	left:0;
-	top: 0;
-	transition: 0.3s;
-	opacity: 0;
-}
-
-.smenu a:hover:before{
-	opacity: 1;
-}
-
-.item:target .smenu {
-	max-height: 10em;
-}

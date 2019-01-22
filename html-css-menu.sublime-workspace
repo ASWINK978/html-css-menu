@@ -1,0 +1,355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgroud",
+				"background-color\tproperty"
+			],
+			[
+				"bca",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"c-",
+				"c-section\tSection Comment"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"list-style",
+				"list-style-type\tproperty"
+			],
+			[
+				"bow",
+				"browserSync"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kraenbyskov.dk/Webaplications/html-css-menu"
+	],
+	"file_history":
+	[
+		"/Users/kraenbyskov.dk/Webaplications/techcollege/HTML-Opgave-01/sass/style.scss",
+		"/Users/kraenbyskov.dk/Webaplications/techcollege/gulpfile.js",
+		"/Users/kraenbyskov.dk/Webaplications/techcollege/.gitignore",
+		"/Users/kraenbyskov.dk/Webaplications/techcollege/README.md",
+		"/Users/kraenbyskov.dk/Webaplications/techcollege/HTML-Opgave-01/index.html",
+		"/Users/kraenbyskov.dk/Webaplications/techcollege/HTML-Opgave-01/style.css",
+		"/Users/kraenbyskov.dk/Webaplications/techcollege/html-opgave-01/sass/style.scss",
+		"/Users/kraenbyskov.dk/Webaplications/techcollege/html-opgave-01/index.html",
+		"/Users/kraenbyskov.dk/Webaplications/techcollege/techcollege.sublime-project",
+		"/Users/kraenbyskov.dk/Webaplications/techcollege/package.json",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/kraenbyskov.dk/wp-content/themes/Kraenbyskov.dk-Theme/sass/style.scss",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/kraenbyskov.dk/wp-content/themes/Kraenbyskov.dk-Theme/sass/_gutenberg.scss",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/kraenbyskov.dk/wp-content/themes/Kraenbyskov.dk-Theme/template-parts/content-page.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/kraenbyskov.dk/wp-content/themes/Kraenbyskov.dk-Theme/sass/_content.scss",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/kraenbyskov.dk/wp-content/themes/Kraenbyskov.dk-Theme/header.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/kraenbyskov.dk/wp-content/themes/Kraenbyskov.dk-Theme/sass/_header.scss",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/kraenbyskov.dk/wp-content/themes/Kraenbyskov.dk-Theme/sass/_navigation.scss",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/kraenbyskov.dk/wp-content/themes/Kraenbyskov.dk-Theme/sass/_typografi.scss",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/gulpfile.js",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/kraenbyskov.dk/wp-content/themes/Kraenbyskov.dk-Theme/footer.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/kraenbyskov.dk/wp-content/themes/Kraenbyskov.dk-Theme/template-parts/content.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/kraenbyskov.dk/wp-content/themes/Kraenbyskov.dk-Theme/page.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/kraenbyskov.dk/wp-content/themes/Kraenbyskov.dk-Theme/sass/_mixing.scss",
+		"/Users/kraenbyskov.dk/Webaplications/html-css-menu/app/scss/styles.scss",
+		"/Users/kraenbyskov.dk/Webaplications/html-css-menu/app/index.html",
+		"/Users/kraenbyskov.dk/Webaplications/html-css-menu/package.json",
+		"/Users/kraenbyskov.dk/Webaplications/html-css-menu/.gitignore",
+		"/Users/kraenbyskov.dk/Webaplications/html-css-menu/README.md",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/README.md",
+		"/Users/kraenbyskov.dk/Webaplications/standart-gulp/README.md",
+		"/Users/kraenbyskov.dk/Webaplications/html-css-menu/app/css/styles.css",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/Skullcandy-webshop/sass/_navigation.scss",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/Skullcandy-webshop/sass/style.scss",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/Skullcandy-webshop/footer.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/Skullcandy-webshop/header.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/Skullcandy-webshop/style.css",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/Skullcandy-webshop/functions.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/Skullcandy-webshop/template-parts/content-none.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/Skullcandy-webshop/template-parts/content.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/Skullcandy-webshop/template-parts/content-page.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/Skullcandy-webshop/README.md",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/test-theme/images/skullcandy.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/test-theme/sass/navigation/_menus.scss",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/test-theme/header.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/test-theme/sass/style.scss",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/test-theme/sass/_navigation.scss",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/test-theme/sass/shop.scss",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/test-theme/sass/footer.scss",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/test-theme/sass/content.scss",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/test-theme/sass/header.scss",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/test-theme/layouts/sidebar-content.css",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/test-theme/template-parts/content-page.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/test-theme/single.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-content/themes/test-theme/page.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/www/test/wp-includes/theme-compat/header.php",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/package.json",
+		"/Users/kraenbyskov.dk/Webaplications/gulp-wordpress/.gitignore",
+		"/Users/kraenbyskov.dk/Webaplications/mobil-layout/README.md",
+		"/Users/kraenbyskov.dk/Webaplications/mobil-layout/.gitignore",
+		"/Users/kraenbyskov.dk/Documents/mobil_layout/README.md",
+		"/Users/kraenbyskov.dk/Documents/mobil_layout/.gitignore",
+		"/Users/kraenbyskov.dk/Library/Mobile Documents/com~apple~CloudDocs/.Trash/portfolio/gulpfile.js",
+		"/Users/kraenbyskov.dk/Documents/mobil_layout/app/scss/styles.scss",
+		"/Users/kraenbyskov.dk/Documents/standart-gulp/gulpfile.js",
+		"/Users/kraenbyskov.dk/Documents/mobil_layout/gulpfile.js",
+		"/Users/kraenbyskov.dk/Documents/standart-gulp/package.json",
+		"/Users/kraenbyskov.dk/Documents/standart-gulp/app/css/styles.css",
+		"/Users/kraenbyskov.dk/Documents/standart-gulp/README.md",
+		"/Users/kraenbyskov.dk/Documents/mobil_layout/package.json",
+		"/Users/kraenbyskov.dk/Documents/standart-gulp/app/scss/styles.scss",
+		"/Users/kraenbyskov.dk/Documents/standart-gulp/app/index.html",
+		"/Users/kraenbyskov.dk/Documents/standart-gulp/.gitignore",
+		"/Users/kraenbyskov.dk/Documents/standart-gulp/package-lock.json",
+		"/Users/kraenbyskov.dk/Documents/standart-gulp/app/scss/print.scss",
+		"/Users/kraenbyskov.dk/Documents/test/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "html-css-menu.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"HTML-Opgave-01/index.html"
+			],
+			[
+				"index",
+				"HTML-Opgave-01/index.html"
+			],
+			[
+				"style",
+				"HTML-Opgave-01/style.css"
+			],
+			[
+				"sty",
+				"HTML-Opgave-01/style.css"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"mix",
+				"sass/_mixing.scss"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"nav",
+				"sass/navigation/_menus.scss"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Webaplications/gulp-wordpress/www/kraenbyskov.dk/wp-content/themes/Kraenbyskov.dk-Theme/kraenbyskov-theme.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
